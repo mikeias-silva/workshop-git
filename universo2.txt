@@ -1,0 +1,3 @@
+agua: azul
+terra: marrom
+ceu: azul
