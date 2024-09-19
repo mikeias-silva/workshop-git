@@ -1,0 +1,4 @@
+agua: azul
+terra: marrom
+ceu: azul
+animais: cachorro, gato, peixe
